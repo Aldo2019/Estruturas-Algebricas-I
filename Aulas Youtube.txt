@@ -1,11 +1,22 @@
 Exemplos de grupos Abelianos:
 https://www.youtube.com/watch?v=-wbXlz7XLD0
+https://www.youtube.com/watch?v=pXgkI69Amho
 
 Aneis:
 https://www.youtube.com/watch?v=3g3R1rniSUo
+https://www.youtube.com/watch?v=G80zK1RUxIE
+
+Ideais:
+https://www.youtube.com/watch?v=mUvzuLh-gPk
+
+Anel Quociente:
+https://www.youtube.com/watch?v=5tc3Y6Cl-DE
 
 Introdução ao Grupo de Permutação:
 https://www.youtube.com/watch?v=3g3R1rniSUo
+
+Classes Laterais e Grupo de Permutações :
+https://www.youtube.com/watch?v=r7zt8xQZIVY
 
 Grupos Ciclicos:
 https://www.youtube.com/watch?v=67lZH3vy1ik
@@ -31,3 +42,5 @@ https://www.youtube.com/watch?v=Efa3jZX4kw8
 
 Homomorfismo:
 https://www.youtube.com/watch?v=GoJFHuVtQmY
+https://www.youtube.com/watch?v=Jx8QjqUWGvE
+
