@@ -15,6 +15,13 @@ https://www.youtube.com/watch?v=5tc3Y6Cl-DE
 Homomorfismo de aneis:
 https://www.youtube.com/watch?v=Jx8QjqUWGvE
 
+Ideais Maximais:
+https://www.youtube.com/watch?v=DkujV9JONes
+https://www.youtube.com/watch?v=DWdeAYUUFCA
+
+Ideais primos:
+https://www.youtube.com/watch?v=DWdeAYUUFCA
+
 Introdução ao Grupo de Permutação:
 https://www.youtube.com/watch?v=3g3R1rniSUo
 
@@ -46,4 +53,7 @@ https://www.youtube.com/watch?v=Efa3jZX4kw8
 Homomorfismo:
 https://www.youtube.com/watch?v=GoJFHuVtQmY
 https://www.youtube.com/watch?v=Jx8QjqUWGvE
+
+Exercicios e provas de grupos e aneis:
+https://sharmaeklavya2.github.io/theoremdep/nodes/abstract-algebra/rings/prime-ideal-intdom.html
 
