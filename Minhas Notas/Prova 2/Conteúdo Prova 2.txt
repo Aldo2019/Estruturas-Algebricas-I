@@ -1,4 +1,13 @@
 6.3 Página 162
  Exemplos somente, deixar para depois 4.6 Página 120
  Exemplos somente, deixar para depois 4.5 Página 112
-Capitulo 10 página 321
+Capitulo 10 página 321 - 343
+
+Domínios euclidianos:
+https://www.youtube.com/watch?v=_xcOAFWu620 - a partir de 48 minutos
+
+Corpos, domínios e anéis reduzidos
+https://www.youtube.com/watch?v=EHiVY4k3NZA&list=PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk
+
+Dominios de integridade:
+https://www.youtube.com/watch?v=MAmyR7rDSLk
