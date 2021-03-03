@@ -1,4 +1,11 @@
 Polinômio Irredutível em Q[x]:
 https://www.youtube.com/watch?v=dwNuQCtXrJw
 
+Learn Math Easily
+https://www.youtube.com/channel/UCUosUwOLsanIozMH9eh95pA
 
+R is a Field iff Polynomial Ring R[x] is Principal Ideal Domain - Proof- ED - Lesson 20:
+https://www.youtube.com/watch?v=SaEU6_m8NYg
+
+A Polynomial Ring R[x] is an Integral Domain iff R is an Integral Domain - Proof- ED - Lesson 19:
+https://www.youtube.com/watch?v=2fbVgbTbuho
